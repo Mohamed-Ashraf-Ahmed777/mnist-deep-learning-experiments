@@ -1,5 +1,3 @@
-# mnist-deep-learning-experiments
-PyTorch-based neural network experiments on the MNIST handwritten digit dataset, including hyperparameter tuning, CNNs, and regularization analysis.
 # MNIST Deep Learning Experiments
 
 A PyTorch-based deep learning study on the **MNIST handwritten digit dataset**, covering fully connected neural networks, hyperparameter tuning, convolutional neural networks, and regularization techniques.
